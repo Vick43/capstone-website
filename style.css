@@ -1,4 +1,4 @@
-/*Website Styles*/
+  /*Website Styles*/
 * {
   font-size: 100%;
   margin: 0;
@@ -23,7 +23,6 @@
   /*photo by matthew_henry*/
   background-size: cover;
   background-position: center;
-
 }
 
 body {
@@ -33,7 +32,6 @@ body {
   color: #FFF23D;
   font-family: "merriweather", Verdana;
   font-size: 14px;
-
 }
 
   header,
@@ -80,7 +78,7 @@ h2 {
 }
 
 h3 {color: black;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h4 {
@@ -104,11 +102,6 @@ img {
 ol {
   color: white;
   margin: 15px 0;
-}
-
-a  {
-color: dark-blue;
-text-decoration: none;
 }
 
 a:hover {
